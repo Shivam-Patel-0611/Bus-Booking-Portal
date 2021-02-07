@@ -24,17 +24,17 @@ After clicking the search buses one can see the drop down boxes for source, dest
 The list of buses will appear along with their details if there is any bus available for that route. Select any of the bus. 
 After selecting bus, the seat layout will appear. Click on the seats on unreserved seats to reserve them. The foreground will change to red. If user wants to unreserve it then click again it will unreserved it. The booked seats will already be red coloured. 
 After selecting the seat(s), click on “CONTINUE” button which will take you to fill the form which will be necessary to generate ticket information. After filling the information, click on “continue” button to get the ticket information regarding the booking. The ticket information includes 
-		o PNR 
-		o Name 
-		o Source 
-		o Destination 
-		o Journey Date 
-		o Boarding Time 
-		o Fare 
-		o Bus Name 
-		o Bus Type 
-		o Seats 
-		o Status 
+		1. PNR 
+		2. Name 
+		3. Source 
+		4. Destination 
+		5. Journey Date 
+		6. Boarding Time 
+		7. Fare 
+		8. Bus Name 
+		9. Bus Type 
+		10. Seats 
+		11. Status 
 
 Once booked close all the windows and remember the PNR number and again log-in. 
 
