@@ -1,0 +1,2 @@
+# Bus-Booking-Portal
+Designing of Bus Booking Portal using JAVA Swing. User can enter the details regarding the journey and can select the seats according to his/her preference. User can also cancel the booked seats. The Details of journey are stored in files on user computer. Implementation of FIrebase Realtime Database will replace file management and can improve project coverage from local to global scope.
